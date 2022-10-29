@@ -1,0 +1,30 @@
+.container {
+    margin-top: 200px;
+    width: 60%
+}
+
+.main-heading {
+    font-size: 30px;
+}
+
+.main-sub-heading {
+    font-size: 17px;
+    font-weight: 400;
+}
+
+.input-label {
+    font-size: 13px;
+}
+
+.btn {
+    outline: none;
+    border: none;
+    background-color: rgb(12, 116, 116);
+    width: 350px;
+    color: aliceblue;
+}
+
+.btn :hover {
+    background-color: rgb(12, 116, 116);
+    color: aliceblue;
+}
